@@ -1,0 +1,16 @@
+# Entornos virtuales de Python
+.venv/
+.venv-linux/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuracion local del editor
+.vscode/
+
+# Archivos temporales
+*.log
+.pytest_cache/
